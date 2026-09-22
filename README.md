@@ -1,4 +1,4 @@
-# Telegram Manga Downloader
+# Telegram Mangá Downloader
 
 Script em Python para baixar automaticamente mangás de grupos ou canais do Telegram.
 
